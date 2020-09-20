@@ -10,4 +10,12 @@
         <img src="github/tela-inicial.gif" alt="logo" width="530">
         <img src="github/tela-inicial-mobile.gif" alt="logo" width="140">
     </div>
+    <br>
+    <h3>
+    No formulário de cadastro tem várias opções de horários, dias, matérias e etc. Para o professor que vai se cadastrar
+    </h3>
+    <div align="center">
+        <img src="github/tela-cadastro.gif" alt="logo" width="530">
+        <img src="github/tela-inicial-mobile.gif" alt="logo" width="140">
+    </div>
 </html>
