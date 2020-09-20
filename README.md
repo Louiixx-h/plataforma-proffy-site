@@ -1,3 +1,3 @@
 <html>
-    <img src="/github/logo.svg" alt="logo">
+    <img src="/github/logo.png" alt="logo">
 </html>
