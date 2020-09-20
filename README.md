@@ -1,7 +1,13 @@
 <html>
-    <body>
-        <div alighn="center">
-            <img src="/github/logo.png" alt="logo">
-        </div>
-    </body>
+    <div align="center">
+        <img src="github/logo.png" alt="logo">
+    </div>
+    <br>
+    <h3>
+    Proffy é uma plataforma de estudo online onde você pode encontrar o seu professor preferido para estudar determinada matéria.
+    </h3>
+    <div align="center">
+        <img src="github/tela-inicial.gif" alt="logo" width="475">
+        <img src="github/tela-inicial-mobile.gif" alt="logo" width="140">
+    </div>
 </html>
