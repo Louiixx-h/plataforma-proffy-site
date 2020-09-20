@@ -16,6 +16,6 @@
     </h3>
     <div align="center">
         <img src="github/tela-cadastro.gif" alt="logo" width="530">
-        <img src="github/tela-inicial-mobile.gif" alt="logo" width="140">
+        <img src="github/tela-cadastro-mobile.gif" alt="logo" width="140">
     </div>
 </html>
