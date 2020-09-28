@@ -5,11 +5,11 @@ const subjects = [
     'Educação-Física',
     'Física',
     'Geografia',
-    'Hisória',
+    'História',
     'Matemática',
     'Português',
     'Química',
-    'higiene e segurança'
+    'Higiene e Segurança'
 ];
 const weekdays = [
     'Domingo',
