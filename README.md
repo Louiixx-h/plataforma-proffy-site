@@ -26,6 +26,7 @@
         <li><p>✔️ Responsividade</p></li>
         <li><p>✔️ Express</p></li>
         <li><p>✔️ SQLite</p></li>
+        <li><p>✔️ API Whatsapp</p></li>
     </ul>
     <br>
     <p>📧 Email: louix.sm@gmail.com</p>
