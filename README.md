@@ -32,7 +32,7 @@
     <p>📧 Email: louix.sm@gmail.com</p>
     <br>
     <p>📱 Instagram:</p>
-    <a href="https://www.instagram.com/louis.henrik">
+    <a href="https://www.instagram.com/louis.henrik" about="blank">
     https://www.instagram.com/louis.henrik/
     </a>
     <p>💼 Linkedin:</p>
